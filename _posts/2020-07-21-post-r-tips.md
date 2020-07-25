@@ -205,6 +205,11 @@ mutate(word = reorder_within (word, tf_idf, character) %>%
 scale_x_reordered()+
 ```
 
+#### Use a gradient of colors in ggplot:
+```r
+scale_color_gradient2(low="blue", high="red", midpoint = 0.5)
+```
+
 #R
 
 
