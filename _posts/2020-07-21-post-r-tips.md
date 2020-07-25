@@ -31,12 +31,10 @@ Identify na's and incompletes:
 ~~~
 
 Write to excel:
-
-<pre><code class="language-r">
+```r
     library(writexl)
     write_excel_csv(estate, "~/Desktop/2020-07-20-12-33 estate.csv", na = 'NA', append = FALSE, delim = ',', quote_escape = 'double')  
-
-</code></pre>
+```
 
 setting the axis and formats:
   scale_y_continuous(labels = dollar_format())+
