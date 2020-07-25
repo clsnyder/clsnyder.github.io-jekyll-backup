@@ -10,29 +10,40 @@ tags:
 ---
 
 Hide the legend in a bar chart:
+
   ```
-  geom_col(show.legend = FALSE)
+  geom_col(show.legend = FALSE)    
+  
   ```
 
-Inserts new section    
+Insert new section  
 
-```Ctrl-Shift-R``` 
+``` 
+Ctrl-Shift-R
 
+``` 
 
-identify na's and incompletes:
+Identify na's and incompletes:
+
 ```
-    df %>% filter(!complete.cases(.)) %>% View()   This will show all cases with na/empty values
+    df %>% filter(!complete.cases(.)) %>% View()   This will show all cases with na/empty values   
+
 ```
 
-filter multiples:
+Filter multiples:
+
 ```
 	filter(age < 10 | age > 80)
+
 ```
 
-write to excel:
-    library(writexl)
-    write_excel_csv(estate, "~/Desktop/2020-07-20-12-33 estate.csv", na = 'NA', append = FALSE, delim = ',', quote_escape = 'double')
+Write to excel:
 
+```
+    library(writexl)
+    write_excel_csv(estate, "~/Desktop/2020-07-20-12-33 estate.csv", na = 'NA', append = FALSE, delim = ',', quote_escape = 'double')  
+
+```
 
 setting the axis and formats:
   scale_y_continuous(labels = dollar_format())+
