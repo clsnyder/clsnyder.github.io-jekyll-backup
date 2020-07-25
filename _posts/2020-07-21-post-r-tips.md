@@ -24,18 +24,11 @@ Ctrl-Shift-R
 ``` 
 
 Identify na's and incompletes:
-
-```{r}
+~~~
     df %>% filter(!complete.cases(.)) %>% View()   This will show all cases with na/empty values   
-
-```
-
-Filter multiples:
-
-```
 	filter(age < 10 | age > 80)
 
-```
+~~~
 
 Write to excel:
 
