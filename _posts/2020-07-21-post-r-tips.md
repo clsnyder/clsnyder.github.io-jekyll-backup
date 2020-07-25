@@ -11,9 +11,9 @@ tags:
 
 Hide the legend in a bar chart:
 
-  ```
+  ```{r}
   geom_col(show.legend = FALSE)    
-  
+
   ```
 
 Insert new section  
@@ -25,7 +25,7 @@ Ctrl-Shift-R
 
 Identify na's and incompletes:
 
-```
+```{r}
     df %>% filter(!complete.cases(.)) %>% View()   This will show all cases with na/empty values   
 
 ```
