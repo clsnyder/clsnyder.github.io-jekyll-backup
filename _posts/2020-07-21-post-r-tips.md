@@ -1,6 +1,6 @@
 ---
 title: "R Tips"
-last_modified_at: 2020-07-21T16:20:02-05:00
+last_modified_at: 2020-07-24 T16:20:02-05:00
 categories:
   - R
 tags:
@@ -14,20 +14,20 @@ Hide the legend in a bar chart:
   geom_col(show.legend = FALSE)
   ```
 
+Inserts new section    
 
-R Tips
-
-
-Ctrl-Shift-R: Inserts new section
+```Ctrl-Shift-R``` 
 
 
 identify na's and incompletes:
+```
     df %>% filter(!complete.cases(.)) %>% View()   This will show all cases with na/empty values
-
+```
 
 filter multiples:
+```
 	filter(age < 10 | age > 80)
-
+```
 
 write to excel:
     library(writexl)
