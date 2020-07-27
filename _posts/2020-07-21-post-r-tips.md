@@ -217,6 +217,10 @@ scale_color_gradient2(low="blue", high="red", midpoint = 0.5, labels = scales::p
 ```r
 mutate(decade = 10* (year%/% 10))
 ```
+**Get the top 10 and bottom 10**
+```r
+slice(c(1:10, seq(n() - 10, n()))) %>%
+```
 
 
 #R
