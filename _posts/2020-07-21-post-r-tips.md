@@ -10,7 +10,7 @@ tags:
 ---
 
 **Hide the legend in a bar chart:**
-```{r}
+```r
 geom_col(show.legend = FALSE)    
 
 ```
