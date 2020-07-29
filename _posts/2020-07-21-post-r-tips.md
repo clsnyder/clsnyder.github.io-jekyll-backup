@@ -132,12 +132,21 @@ penguins_madeup_wide %>%
     starts_with("body_mass"),
     list(sample_mean = mean, sample_sd = sd)
   ))
+
+mtcars %>%
+  group_by (cycl) %>%
+  summarise(across(c("mpg", "hp"), list(mean=mean, median=median, sd=sd)))
 ```
 
 **Turn blank into na:**
 ```r
   mtcars%>%
     na_if("")
+```
+
+**Using summarise_all:**
+```r
+summarise_all(~mean(!is.na(.)))
 ```
 
 **Nice shortcut (reassignment pipe):**
