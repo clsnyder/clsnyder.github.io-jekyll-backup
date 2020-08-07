@@ -231,6 +231,10 @@ mutate(decade = 10* (year%/% 10))
 slice(c(1:10, seq(n() - 10, n()))) %>%
 ```
 
+**Limit the number of digits in output of RMD documents:**
+```r
+knitr::opts_chunk$set(echo = TRUE, options(scipen=1, digits=1))
+```
 
 #R
 
