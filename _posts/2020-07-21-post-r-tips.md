@@ -235,6 +235,14 @@ slice(c(1:10, seq(n() - 10, n()))) %>%
 ```r
 knitr::opts_chunk$set(echo = TRUE, options(scipen=999, digits=1))
 ```
+**If you want to put additional material at the end of the document, as a sort of 'notes' that will be saved but not printed to the document or blog, use this at the end:**
+
+```r
+knitr::knit_exit()
+```
+## then more code or markdown after it won't be incorporated.
+
+
 
 #R
 
