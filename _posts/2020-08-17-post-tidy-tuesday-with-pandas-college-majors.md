@@ -1,12 +1,11 @@
 ---
-title: "Post: College Majors from Tidy Tuesday - with Pandas"
+title: "College Majors from Tidy Tuesday - with Pandas"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
   - Pandas
-  - readability
-  - standard
+  - TidyTuesday
 ---
 
 <!DOCTYPE html>
