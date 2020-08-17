@@ -9,4 +9,3 @@ tags:
   - standard
 ---
 
-knitr::knit_exit()
