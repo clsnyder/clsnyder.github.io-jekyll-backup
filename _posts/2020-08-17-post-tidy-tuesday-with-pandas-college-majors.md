@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "Post: College Majors from Tidy Tuesday - with Pandas"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
