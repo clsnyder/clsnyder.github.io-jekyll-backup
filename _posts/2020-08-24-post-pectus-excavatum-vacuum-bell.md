@@ -6,17 +6,19 @@ categories:
   - Blog   
 tags:  
   - PedSurg   
-  
 ---
 
-2005 Haecker Eur J CT Surg
+**2005 Haecker Eur J CT Surg**.  
 Methods: A suction cup is used to create a vacuum at the anterior chest wall. A patient-activated hand pump is used to reduce the pressure up to 15% below atmospheric pressure. Three different sizes of vacuum bell exist which are selected according to the individual patients age. When creating the vacuum, the lift of the sternum is obvious and remains for a different time period. The device should be used for a minimum of 30 min (2 per day), and may be used up to a maximum of several hours daily. Presently, a 12—15-month course of treatment is recommended. 
+
 Results: Thirty-four patients (31 males, 3 females), aged 6—52 years (median 17.8 years) used the vacuum bell for 1 to maximum 18 months (median 10.4 months). Follow-up included photography and clinical examination every 3 months. Computed tomographic scans showed that the device lifted the sternum and ribs immediately. In addition, this was confirmed thoracoscopically during the MIRPE procedure. After 3 months, an elevation of more than 1.5 cm was documented in 27 patients (79%). After 12 months, the sternum was lifted to a normal level in five patients (14.7%). Relevant side effects were not noted. 
+
 During the first 1—5 applications, all patients experienced moderate pain in the sternum and reported a feeling of uncomfortable pressure within the chest. Adolescent and older patients developed moderate subcutaneous haema- toma, which disappeared within a few hours. 
+
 In conclusion, the vacuum bell may allow some patients with PE to avoid surgery. Especially patients with symmetric and mild PE may benefit from this procedure. However, the time of follow-up in our series is too short to confirm this with any certainty. Additionally, the intraoperative use of the vacuum bell during the MIRPE may facilitate the introduction of the pectus bar. 
 
 
-2011 Haecker Ped Surg Int
+**2011 Haecker Ped Surg Int**
 Methods: The device should be used for a minimum of 30 min (twice/day), and may be used up to a maximum of several hours daily. 
 Results: One hundred and thirty-three patients (110 males, 23 females) aged from 3 to 61 years (median 16.21 years) used the vacuum bell for 1 to a maximum of 36 months. One hundred and five patients showed a permanent lift of the sternum for more than 1 cm after 3 months of daily application. Thirteen patients stopped the application and underwent MIRPE. Relevant side effects were not noted. The first application of the vacuum bell occurred under supervision of the attending doctor. The length of time of daily application of the vacuum bell varied widely between patients. Some patients followed the user instructions and applied the device twice daily for 30 min each. 
 Adolescent boys applied the device every night for 7–8 h. In fact, the duration and frequency of daily application depends on the patients’ individual decision and motivation. 
