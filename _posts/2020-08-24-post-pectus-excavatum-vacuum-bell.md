@@ -78,15 +78,8 @@ A total of 109 patients were enrolled from December 2017 to December 2019. Despi
 
 Many studies [18, 26, 27] have reported that thoracic flexibility is a significant indicator of success. In our study, the VB was also effective for correcting asymmetric PE, and a significant difference between symmetric and asymmetric patients was proven in statistical analysis. This is an important contrast to the results of Robert et al. 
 
+<hr/>
 
-
-
-
-
-
-
-
-—————————
 *History*: The earliest report about PE, that has been cited, is the case of the deformity identified by Bauhinus from 1594. However, a recent published study analyzed more than 600 artifacts from Ancient Egypt, showing that CWDs were already displayed in reliefs from Ancient Egypt dating back to ca. 2400 BC.
 The number of articles reporting on different aspects of PE treatment raised from $300 (1980–1989) to more than 600 (2000–2009). The technique of minimally invasive repair of pectus excavatum (MIRPE) was first described by Nuss et al8 to avoid several operative features of the modified Ravitch repair procedure. 
 
