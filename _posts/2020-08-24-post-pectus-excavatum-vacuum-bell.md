@@ -1,12 +1,13 @@
-—--
-title: “The use of a vacuum belt in the treatment of pectus excavatum”
-last_modified_at: 2020-08-24 T16:20:02-05:00
+---
+title: “The use of a vacuum belt in the treatment of pectus excavatum”    
+last_modified_at: 2020-08-24 T16:20:02-05:00   
 excerpt_separator: “<!—more—>”
 categories:
-  - Blog
-tags:
-  - PedSurg
-—--
+  - Blog   
+tags:  
+  - PedSurg   
+  
+---
 
 2005 Haecker Eur J CT Surg
 Methods: A suction cup is used to create a vacuum at the anterior chest wall. A patient-activated hand pump is used to reduce the pressure up to 15% below atmospheric pressure. Three different sizes of vacuum bell exist which are selected according to the individual patients age. When creating the vacuum, the lift of the sternum is obvious and remains for a different time period. The device should be used for a minimum of 30 min (2 per day), and may be used up to a maximum of several hours daily. Presently, a 12—15-month course of treatment is recommended. 
