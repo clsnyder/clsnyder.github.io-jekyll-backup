@@ -1,5 +1,5 @@
 ---
-title: The use of a vacuum belt in the treatment of pectus excavatum    
+title: The use of a vacuum bell in the treatment of pectus excavatum    
 last_modified_at: 2020-08-24 T16:20:02-05:00   
 excerpt_separator: “<!—more—>”
 categories:
