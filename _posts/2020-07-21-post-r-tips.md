@@ -241,6 +241,19 @@ knitr::opts_chunk$set(echo = TRUE, options(scipen=999, digits=1))
 knitr::knit_exit()
 
 #then more code or markdown after it won't be incorporated.
+
+```
+
+**How to read a csv file from an online repository (e.g., GitHub) and glimpse it**
+
+```
+
+#Find the url of the raw csv file
+
+library(tidyverse)
+df <- readr::read_csv("https://blah_blahEtc.com/blah")
+df %>% glimpse()
+
 ```
 
 
