@@ -239,9 +239,9 @@ knitr::opts_chunk$set(echo = TRUE, options(scipen=999, digits=1))
 
 ```r
 knitr::knit_exit()
-```
-## then more code or markdown after it won't be incorporated.
 
+#then more code or markdown after it won't be incorporated.
+```
 
 
 #R
