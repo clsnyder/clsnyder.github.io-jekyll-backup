@@ -15,7 +15,9 @@ Suppose we test educational performance in schools, and compare Texas to Wiscons
 
 ### Image
 {{site.url}}[[Assets/images/simpsons_paradox]]
-![from Wikipedia](/assets/simpsons_paradox.png)
+
+
+![from Wikipedia](/assets/images/simpsons_paradox.png)
 
 
 ### References
