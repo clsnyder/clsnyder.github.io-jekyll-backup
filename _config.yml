@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Charles Snyder"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo2.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
