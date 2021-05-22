@@ -67,4 +67,4 @@ Or you could skip the capture and stick with straight HTML.
   <p>A basic message.</p>
 </div>
 
-Here is some more <acronym title="pop-up text"><img src=...></acronym> stuff
+Here is some more <acronym title="pop-up text"></acronym> stuff
