@@ -1,4 +1,3 @@
-TEMP
 ---
 title: random
 last_modified_at: 2021-11-23 
