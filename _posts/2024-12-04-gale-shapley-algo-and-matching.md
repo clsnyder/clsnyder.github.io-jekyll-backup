@@ -1,5 +1,5 @@
 ---
-title: Simpson's Paradox 
+title: The Gale-Shapley Algorithm (you've never heard of) and the national residency match program
 last_modified_at: 2024-12-04 T09:20:02-05:00   
 excerpt_separator: “<!—more—>”
 categories:
