@@ -29,7 +29,7 @@ This concept initially applied to pairing individuals (e.g., men and women in th
 
 In 2012, Shapley and economist Alvin Roth won the Nobel Prize in Economic Sciences for their work on this and related algorithms, emphasizing its real-world impact.
 
-How Does the Gale-Shapley Algorithm Work?
+#### How Does the Gale-Shapley Algorithm Work?
 
 The Gale-Shapley algorithm operates as follows:
 	1.	Proposal Phase:
@@ -70,7 +70,9 @@ However, this does not mean programs are disadvantaged. Programs can optimize th
 
 Illustrative Diagram: Gale-Shapley in Action
 
-Initial Rankings
+**Initial Rankings**
+
+![Rankings](/assets/images/initial_rankings.png)
 
 Applicants	Ranked Programs	Programs	Ranked Applicants
 A	[P1, P2, P3]	P1	[A, B, C]
@@ -88,8 +90,8 @@ Step 2: Re-Proposals
 
 	•	If B is rejected by P2 in favor of A, B proposes to P1. If P1 prefers B to its current match, it accepts B and rejects A.
 
-Final Matching
-
+**Final Matching**
+![Final](/assets/images/initial_rankings.png)
 Applicant	Match
 A	P2
 B	P1
@@ -97,7 +99,7 @@ C	P3
 
 This ensures all matches are stable, and no one would prefer switching.
 
-Conclusion
+**Conclusion**
 
 The Gale-Shapley algorithm underpins the NRMP, ensuring fairness and stability in residency matches. Its applicant-proposing nature gives applicants an edge, helping them secure their most preferred program that ranks them highly. For hospitals, the algorithm ensures they are matched with applicants they value, minimizing the risk of disruptions in the matching process.
 
