@@ -74,10 +74,6 @@ Illustrative Diagram: Gale-Shapley in Action
 
 ![Rankings](/assets/images/initial_rankings.png)
 
-Applicants	Ranked Programs	Programs	Ranked Applicants
-A	[P1, P2, P3]	P1	[A, B, C]
-B	[P2, P1, P3]	P2	[B, A, C]
-C	[P3, P2, P1]	P3	[C, B, A]
 
 Step 1: Applicants Propose
 
@@ -92,10 +88,7 @@ Step 2: Re-Proposals
 
 **Final Matching**
 ![Final](/assets/images/initial_rankings.png)
-Applicant	Match
-A	P2
-B	P1
-C	P3
+
 
 This ensures all matches are stable, and no one would prefer switching.
 
